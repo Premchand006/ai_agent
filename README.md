@@ -1,4 +1,3 @@
-
 # Agentic AI Daily Planner  
 
 An AI-powered daily planning assistant that helps you organize your day, prioritize tasks, and adapt to changing schedules — all with minimal manual effort.  
@@ -37,13 +36,4 @@ Example Output
 09:00 - Buy groceries  
 10:00 - Meeting with team  
 11:00 - Finish report  
-17:00 - Call mom
-
-Folder Structure
-
-agentic-ai-daily-planner/
-│── planner.py         # Main AI planner script  
-│── requirements.txt   # Dependencies  
-│── README.md          # This file  
-│── data/              # Optional saved schedules  
-│── utils/             #
+17:00 - Call mom      
